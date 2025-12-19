@@ -12,6 +12,7 @@ The repository includes scripts for:
 ---
 
 ## Repository structure
+'''
 TVP-GVAR-ML/
 ├── code/
 │ ├── sim_tvp_gvar.ipynb
@@ -22,6 +23,7 @@ TVP-GVAR-ML/
 │ └── macro_panel.xlsx
 ├── results/
 └── README.md
+'''
 
 ### Code description
 
