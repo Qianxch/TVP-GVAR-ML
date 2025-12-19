@@ -12,18 +12,20 @@ The repository includes scripts for:
 ---
 
 ## Repository structure
-'''
+
+```
 TVP-GVAR-ML/
 ├── code/
-│ ├── sim_tvp_gvar.ipynb
-│ ├── forecast_and_simulation.ipynb
-│ ├── tvp_gvar_plots.ipynb
-│ └── joint_oirf_analysis.ipynb
+│   ├── sim_tvp_gvar.ipynb
+│   ├── forecast_and_simulation.ipynb
+│   ├── tvp_gvar_plots.ipynb
+│   └── joint_oirf_analysis.ipynb
 ├── data/
-│ └── macro_panel.xlsx
+│   └── macro_panel.xlsx
 ├── results/
 └── README.md
-'''
+```
+
 
 ### Code description
 
